@@ -56,5 +56,5 @@ I learned how to organize student information in a Pandas DataFrame and calculat
 ## Project files
 - main.py - Python code
 - students.csv - student dataset
-- Student_Performance_Analytics.ipynb - Colab notebook, if included
+- Student_Performance_Analytics.ipynb - Colab notebook
 - Project_Documentation.docx - detailed project documentation
